@@ -21,7 +21,6 @@
 //JQuery
 
 $(document).ready(function () {
-    $("fa-phone").click(tel()){
-        alert("Cám ơn bạn đã gọi đến Chippi Misue'Art Fan Page!!!")
-    }
+    $("fa-phone").click(tel())
+
 });
