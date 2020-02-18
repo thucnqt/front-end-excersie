@@ -1,0 +1,74 @@
+
+.carousel-item,
+.carousel-inner,
+.carousel-inner img {
+  height: 50%;
+  width: 90%;
+  margin-left: 5%;
+}
+.carousel-caption {
+  text-align: center;
+}
+
+.carousel-caption {
+  top: 90%;
+
+}
+.carousel-control-prev{
+  width:13.5%;
+}
+.carousel-control-next{
+  width:13.5%;
+}
+hr{
+  background-color: lightgrey;
+}
+.ca-koi{
+  height: 80%;
+  width: 90%;
+  margin-left: 5%;
+}
+.fa-paint-brush, .fa-heart, .fa-fire{
+  font-size: 4rem;
+  margin:1rem;
+}
+.fa-heart{
+  color: lightcoral;
+}
+.fa-fire{
+  color:firebrick
+}
+.social a{
+  font-size: 4.5rem;
+  padding:3rem;
+}
+.fa-phone{
+  font-size:3rem;
+  padding:2rem;
+}
+
+.fa-instagram{
+  color: #517fa4;
+}
+.fa-pinterest,.fa-youtube-play{
+  color:red;
+}
+.fa-facebook:hover, .fa-pinterest:hover,.fa-instagram:hover,.fa-youtube-play:hover,.fa-phone:hover{
+  color: #d5d5d5;
+  
+}
+footer{
+  background-color: #3f3f3f;
+  color:#d5d5d5;
+  padding-top:2rem
+}
+hr.light{
+  border-top: 2px solid #d5d5d5;
+  width: 75%;
+}
+.connect-padding{
+  margin-bottom:50px;
+}
+.light-100{
+  width:95%;
+}
